@@ -1,1 +1,3 @@
-# jts60
+# ☯︎ João Taveira ☯︎ 
+
+**`Computer Science Student`**
