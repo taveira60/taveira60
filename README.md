@@ -21,25 +21,33 @@ Currently finishing my Bachelor's degree (Licenciatura), I have a strong interes
 
 ### 🧰 Languages and Tools
 
-
 <p align="left">
-  <img alt="Java" width="40" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img alt="Java" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   
-  <img alt="Python" width="40" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  
-  <img alt="C" width="40" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  
-  <img alt="Haskell" width="40" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" />
-  
-  <img alt="R" width="40" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
-  
-  <img alt="Git" width="40" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  
-  <img alt="Linux" width="40" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  
-  <img alt="Kubuntu" width="40" style="padding-right:40px;" src="https://cdn.simpleicons.org/kubuntu/0079C1" />
-  
-  <img alt="Bash" width="40" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-  
-  <img alt="VS Code" width="40" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img alt="Python" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img alt="C" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img alt="Haskell" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img alt="R" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img alt="Git" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img alt="Linux" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img alt="Kubuntu" width="40" src="https://cdn.simpleicons.org/kubuntu/0079C1" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img alt="Bash" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img alt="VS Code" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </p>
