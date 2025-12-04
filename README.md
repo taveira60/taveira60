@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJwc216MmtwZmM1aDduanp5ZWQ3am1zaW1oZ3I1Z3RuaGJ6ZnR2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TEmg806g8X5C0/giphy.gif" alt="Cyber Gif" width="600" />
+  <img src="https://user-images.githubusercontent.com/74038190/215283417-55c9fe42-d47b-4b51-94d1-cfc135280cbd.gif" alt="Cyber Gif" width="600" />
 </p>
 
 <h1 align="center">☯︎ João Taveira ☯︎</h1>
