@@ -21,7 +21,6 @@ Currently finishing my Bachelor's degree (Licenciatura), I have a strong interes
 
 ### 🧰 Languages and Tools
 
-
 <p align="left">
   <img alt="Java" width="40" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   
@@ -41,5 +40,4 @@ Currently finishing my Bachelor's degree (Licenciatura), I have a strong interes
   
   <img alt="Bash" width="40" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
   
-  <img alt="VS Code" width="40" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-</p>
+  <img alt="VS Code" width="4
