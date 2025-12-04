@@ -8,4 +8,11 @@ Currently finishing my Bachelor's degree (Licenciatura), I have a strong interes
 **My Goal:** I plan to pursue a Master's degree in Cybersecurity and I am actively looking for **internship opportunities** or junior roles to gain hands-on professional experience.
 
 **Contact Me:**
-* LinkedIn: [https://www.linkedin.com/in/joaotaveira60]
+<p align="center">
+  <a href="https://www.linkedin.com/in/joaotaveira60/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp; <a href="https://www.instagram.com/joaotaveira666/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
