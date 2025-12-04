@@ -1,4 +1,10 @@
-# ☯︎ João Taveira ☯︎ 
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJwc216MmtwZmM1aDduanp5ZWQ3am1zaW1oZ3I1Z3RuaGJ6ZnR2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TEmg806g8X5C0/giphy.gif" alt="Cyber Gif" width="600" />
+</p>
+
+<h1 align="center">☯︎ João Taveira ☯︎</h1>
+
+<hr />
 
 **`Computer Science Student`**
 
